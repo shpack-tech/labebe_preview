@@ -1,6 +1,7 @@
 .header_top_row {
 	background: #1a1a1a;
 	font-family: 'Nunito-Regular';
+
 	color: #fff;
 	height: 36px;
 }
@@ -66,6 +67,7 @@
 	}
 	.h_desktop_group a {
 		font-family: 'Nunito-Regular';
+
 		margin-right: 40px;
 	}
 	.header_top_row .container {
