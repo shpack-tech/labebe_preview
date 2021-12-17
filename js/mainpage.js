@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
 			},
 			1200: {
 				slidesPerView: 5,
-				spaceBetween: 20,
+				spaceBetween: 40,
 			},
 		},
 	});
