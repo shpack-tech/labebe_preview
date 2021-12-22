@@ -7,6 +7,4 @@
 
 >Подарочные карты https://shpack-tech.github.io/labebe_preview/gifts-cards.html
 
->Подарочные карты https://shpack-tech.github.io/labebe_preview/gifts-cards.html
-
 >Вопросы и обзоры https://shpack-tech.github.io/labebe_preview/reviews-and-questions.html
