@@ -8,3 +8,11 @@
 >Подарочные карты https://shpack-tech.github.io/labebe_preview/gifts-cards.html
 
 >Вопросы и обзоры https://shpack-tech.github.io/labebe_preview/reviews-and-questions.html
+
+>Товар https://shpack-tech.github.io/lab_p_n/product.html
+
+>Блог https://victor-81.github.io/labebe/blog.html
+
+>Пост https://victor-81.github.io/labebe/blog-post.html
+
+>Каталог https://shpack-tech.github.io/lab_p_n/catalog.html
