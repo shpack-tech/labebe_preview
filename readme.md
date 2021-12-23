@@ -13,6 +13,6 @@
 
 >Блог https://victor-81.github.io/labebe/blog.html
 
->Пост https://victor-81.github.io/labebe/blog-post.html
+>Пост https://shpack-tech.github.io/lab_p_n/blog-post.html
 
 >Каталог https://shpack-tech.github.io/lab_p_n/catalog.html
