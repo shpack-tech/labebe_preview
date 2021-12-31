@@ -15,7 +15,7 @@
 
 >Пост https://shpack-tech.github.io/lab_p_n/blog-post.html
 
->Каталог https://shpack-tech.github.io/lab_p_n/catalog.html
+>Каталог https://shpack-tech.github.io/lbb/catalog.html
 
 >Профиль https://shpack-tech.github.io/lbb/profile.html
 
