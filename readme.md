@@ -1,4 +1,4 @@
-> Главная https://shpack-tech.github.io/lvvb/mainpage.html
+> Главная https://shpack-tech.github.io/lvvb/index.html
 
 > 404 https://shpack-tech.github.io/lvvb/404.html
 
