@@ -22,7 +22,7 @@
 
 > Чекаут https://shpack-tech.github.io/lvvb/order.html
 
-> Список Заказов https://shpack-tech.github.io/lvvb/order.html
+> Список Заказов https://shpack-tech.github.io/lvvb/orders.html
 
 > Вишлист https://shpack-tech.github.io/lvvb/wishlist.html
 
