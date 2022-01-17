@@ -33,3 +33,5 @@
 > результаты поиска https://shpack-tech.github.io/lvvb/search-results.html
 
 > Корзина https://shpack-tech.github.io/lvvb/cart.html
+>
+> Инфостраница https://shpack-tech.github.io/lvvb/infopage.html
