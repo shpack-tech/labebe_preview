@@ -1,5 +1,7 @@
 > Главная https://shpack-tech.github.io/lvvb/index-en.html
 
+> Shop https://shpack-tech.github.io/lvvb/shop.html
+
 > 404 https://shpack-tech.github.io/lvvb/404.html
 
 > Контакты https://shpack-tech.github.io/lvvb/contacts.html
